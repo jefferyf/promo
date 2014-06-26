@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  promotion_id: 
+  budget: 9.99
+  quantity: 1
+  cycles: 1
+  promotion_type: 1
+  promotion_value: 9.99
+  promotion_cap: 9.99
+
+two:
+  promotion_id: 
+  budget: 9.99
+  quantity: 1
+  cycles: 1
+  promotion_type: 1
+  promotion_value: 9.99
+  promotion_cap: 9.99
